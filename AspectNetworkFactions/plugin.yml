@@ -1,0 +1,11 @@
+name: AspectNetworkFactions
+main: net.aspectnetwork.main.Main
+version: 1.0
+description: AspectNetwork factions plugin.
+commands:
+   givestaff:
+      usage: /<command>
+   addEnchants:
+      usage: /<command>
+   giveEnchantmentBook:
+      usage: /<command>
